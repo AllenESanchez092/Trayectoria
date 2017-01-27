@@ -1,0 +1,2 @@
+# Trayectoria
+Trayectoria robot bípedo
